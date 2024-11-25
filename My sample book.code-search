@@ -1,0 +1,129 @@
+# Query: My sample book
+# ContextLines: 1
+
+37 results - 13 files
+
+materi/_config.yml:
+  3  
+  4: title: 
+  5  author: The Jupyter Book Community
+
+materi/_build/html/Algoritma.html:
+   10  
+   11:     <title>Algoritma &#8212; </title>
+   12    
+
+  154      
+  155:     <img src="_static/home.jpg" class="logo__image only-light" alt=" - Home"/>
+  156:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  157    
+
+materi/_build/html/Aljabar Boolean dan Gerbang Logika.html:
+   10  
+   11:     <title>Aljabar Boolean dan Gerbang Logika &#8212; </title>
+   12    
+
+  155      
+  156:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  157:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  158    
+
+materi/_build/html/Centrality Graph (1).html:
+   10  
+   11:     <title>Analisa Graph &#8212; </title>
+   12    
+
+  155      
+  156:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  157:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  158    
+
+materi/_build/html/deretan dan rekursif.html:
+   10  
+   11:     <title>Deretan dan rekursi &#8212; </title>
+   12    
+
+  154      
+  155:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  156:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  157    
+
+materi/_build/html/genindex.html:
+    9      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   10:     <title>Index &#8212; </title>
+   11    
+
+  154      
+  155:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  156:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  157    
+
+materi/_build/html/HIMPUNAN.html:
+   10  
+   11:     <title>HIMPUNAN &#8212; </title>
+   12    
+
+  157      
+  158:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  159:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  160    
+
+materi/_build/html/intro.html:
+   10  
+   11:     <title>Welcome to your Jupyter Book &#8212; </title>
+   12    
+
+  156      
+  157:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  158:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  159    
+
+materi/_build/html/Logika dan Pembuktian (1).html:
+   10  
+   11:     <title>Logika Matematika &#8212; </title>
+   12    
+
+  157      
+  158:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  159:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  160    
+
+materi/_build/html/markdown-notebooks.html:
+   10  
+   11:     <title>HIMPUNAN &#8212; </title>
+   12    
+
+  157      
+  158:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  159:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  160    
+
+materi/_build/html/markdown.html:
+   10  
+   11:     <title>Markdown Files &#8212; </title>
+   12    
+
+  155      
+  156:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  157:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  158    
+
+materi/_build/html/notebooks.html:
+   10  
+   11:     <title>Content with notebooks &#8212; </title>
+   12    
+
+  157      
+  158:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  159:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  160    
+
+materi/_build/html/search.html:
+    8      <meta charset="utf-8" />
+    9:     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Search - </title>
+   10    
+
+  156      
+  157:     <img src="_static/logo.png" class="logo__image only-light" alt=" - Home"/>
+  158:     <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt=" - Home"/>`);</script>
+  159    
