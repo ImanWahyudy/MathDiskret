@@ -1,0 +1,47 @@
+# Query: logo.png
+
+home.jpg22 results - 11 files
+
+materi/_build/html/Aljabar Boolean dan Gerbang Logika.html:
+  156:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  157:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/Centrality Graph (1).html:
+  156:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  157:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/deretan dan rekursif.html:
+  155:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  156:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/genindex.html:
+  155:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  156:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/HIMPUNAN.html:
+  158:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  159:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/intro.html:
+  157:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  158:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/Logika dan Pembuktian (1).html:
+  158:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  159:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/markdown-notebooks.html:
+  158:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  159:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/markdown.html:
+  156:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  157:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/notebooks.html:
+  158:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  159:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
+
+materi/_build/html/search.html:
+  157:     <img src="_static/home.jpg" class="logo__image only-light" alt="My sample book - Home"/>
+  158:     <script>document.write(`<img src="_static/home.jpg" class="logo__image only-dark" alt="My sample book - Home"/>`);</script>
